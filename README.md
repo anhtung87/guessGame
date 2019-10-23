@@ -1,5 +1,5 @@
 # INTRODUCTION
-This is my super mini game on iOS. I write this game for learning some feature
+This is my super mini game on iOS. I write this game for learning some features
 of Swift: guard let, if let, switch, UIKit, ...
 ## Rules:
 1. You import a number between 1 to 100.
